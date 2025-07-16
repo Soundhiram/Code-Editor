@@ -77,8 +77,7 @@
    ```bash
    http://localhost:5173/
    ```
-### 🎥 Need help with the setup?
-👉 Watch [this video](https://youtu.be/zVHwOmU0aqo) for a step-by-step guide.
+
 ### Method 2: Docker Installation
 
 1. **Install Docker Desktop:**
@@ -160,7 +159,7 @@ Special thanks to:
     </tr>
     <tr>
         <td align="center">
-            <a href="https://github.com/sahilatahar">
+            <a href="https://github.com/Soundhiram">
             <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
             <br/>
