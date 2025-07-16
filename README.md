@@ -164,7 +164,7 @@ Special thanks to:
             </a>
             <br/>
             <a href="https://linkedin.com/in/sahilatahar">
-            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+            <img src="https://media.licdn.com/dms/image/v2/D5603AQHUmLTgs93yUQ/profile-displayphoto-scale_400_400/B56ZfcDw3UHEAg-/0/1751743665084?e=1758153600&v=beta&t=IeHCQTCqoF-oDagShM3WcA8s_jxnJzwrLVGgO3vf_Iw"/>
             </a>
         </td>
     </tr>
